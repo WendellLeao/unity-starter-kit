@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.1.1] - 2026-08-17
+
+### Changed
+
+- Updated the Scene Loader dependency reference following its rename to Scene Search Window ([WendellLeao.SceneSearchWindow](https://github.com/WendellLeao/scene-search-window)).
+
 ## [1.1.0] - 2026-08-17
 
 ### Changed
