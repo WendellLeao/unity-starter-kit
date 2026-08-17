@@ -30,3 +30,9 @@ It installs whichever of these you pick:
 - [WendellLeao.SceneLoader](https://github.com/WendellLeao/scene-loader)
 
 The kit also ships a small set of shared utilities (`PathUtility`, `MathUtility`, `PlayerPrefsUtility`, `ScenesUtility`) and extension methods for `GameObject`, `List<T>` and `Transform`.
+
+## Architecture guide
+
+This starter kit is built for the default folder, namespace, scene, and lifecycle architecture in [WendellLeao/skills](https://github.com/WendellLeao/skills), under [`unity-clean-architecture`](https://github.com/WendellLeao/skills/tree/master/unity-clean-architecture): it's the paved path a brand-new project follows once the services above are installed.
+
+It ships as a ready-to-use, standalone Claude Code Skill; copy that folder into your own `~/.claude/skills/` and it triggers automatically whenever Claude Code scaffolds a new Unity project. Any other agent (Cursor, Codex, Copilot) can be pointed at the same file from whatever instruction file it reads.
