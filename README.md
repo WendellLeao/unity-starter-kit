@@ -29,7 +29,7 @@ It installs whichever of these you pick:
 - [WendellLeao.SceneBootstrap](https://github.com/WendellLeao/scene-bootstrap)
 - [WendellLeao.SceneSearchWindow](https://github.com/WendellLeao/scene-search-window)
 
-The kit also ships a small set of shared utilities (`PathUtility`, `MathUtility`, `PlayerPrefsUtility`, `ScenesUtility`) and extension methods for `GameObject`, `List<T>` and `Transform`.
+The kit also ships a small set of shared utilities (`PathUtility`, `MathUtility`, `PlayerPrefsUtility`, `ScenesUtility`), a `PersistentObject` component that calls `DontDestroyOnLoad` on itself in `Awake` for whenever you just need to keep a random GameObject alive across scenes, and extension methods for `GameObject`, `List<T>` and `Transform`.
 
 ## Architecture guide
 

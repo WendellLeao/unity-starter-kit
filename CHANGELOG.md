@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.2.0] - 2026-08-17
+
+### Added
+
+- `PersistentObject` component: calls `DontDestroyOnLoad` on itself in `Awake`, for marking a GameObject persistent without writing a dedicated class for it.
+
 ## [1.1.1] - 2026-08-17
 
 ### Changed
