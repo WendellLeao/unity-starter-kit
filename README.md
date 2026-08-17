@@ -27,5 +27,6 @@ It installs whichever of these you pick:
 - [WendellLeao.Screen](https://github.com/WendellLeao/screen-service)
 - [WendellLeao.Audio](https://github.com/WendellLeao/audio-service)
 - [WendellLeao.SceneBootstrap](https://github.com/WendellLeao/scene-bootstrap)
+- [WendellLeao.SceneLoader](https://github.com/WendellLeao/scene-loader)
 
-The kit also ships a **Scene Loader** window (`Tools/WendellLeao/Scene Loader`) for quick scene-switching, plus a small set of shared utilities (`PathUtility`, `MathUtility`, `PlayerPrefsUtility`, `ScenesUtility`) and extension methods for `GameObject`, `List<T>` and `Transform`.
+The kit also ships a small set of shared utilities (`PathUtility`, `MathUtility`, `PlayerPrefsUtility`, `ScenesUtility`) and extension methods for `GameObject`, `List<T>` and `Transform`.
