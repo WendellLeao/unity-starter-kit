@@ -27,7 +27,7 @@ It installs whichever of these you pick:
 - [WendellLeao.Screen](https://github.com/WendellLeao/screen-service)
 - [WendellLeao.Audio](https://github.com/WendellLeao/audio-service)
 - [WendellLeao.SceneBootstrap](https://github.com/WendellLeao/scene-bootstrap)
-- [WendellLeao.SceneSearchWindow](https://github.com/WendellLeao/scene-search-window)
+- [WendellLeao.SceneSwitcher](https://github.com/WendellLeao/scene-switcher)
 
 The kit also ships a small set of shared utilities (`PathUtility`, `MathUtility`, `PlayerPrefsUtility`, `ScenesUtility`), a `PersistentObject` component that calls `DontDestroyOnLoad` on itself in `Awake` for whenever you just need to keep a random GameObject alive across scenes, and extension methods for `GameObject`, `List<T>` and `Transform`.
 

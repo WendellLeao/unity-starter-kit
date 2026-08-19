@@ -22,7 +22,7 @@ namespace WendellLeao.StarterKit.Editor.DependenciesImporter
             ("com.wendellleao.screenservice", "https://github.com/WendellLeao/screen-service.git", "Screen Service"),
             ("com.wendellleao.audioservice", "https://github.com/WendellLeao/audio-service.git", "Audio Service"),
             ("com.wendellleao.scenebootstrap", "https://github.com/WendellLeao/scene-bootstrap.git", "Scene Bootstrap"),
-            ("com.wendellleao.scenesearchwindow", "https://github.com/WendellLeao/scene-search-window.git", "Scene Search Window"),
+            ("com.wendellleao.sceneswitcher", "https://github.com/WendellLeao/scene-switcher.git", "Scene Switcher"),
             ("com.cysharp.unitask", "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask", "UniTask")
         };
 

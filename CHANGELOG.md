@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.2.1] - 2026-08-19
+
+### Changed
+
+- Updated the Scene Search Window dependency reference following its rename to Scene Switcher ([WendellLeao.SceneSwitcher](https://github.com/WendellLeao/scene-switcher)).
+
 ## [1.2.0] - 2026-08-17
 
 ### Added
